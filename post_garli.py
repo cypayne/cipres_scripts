@@ -1,6 +1,6 @@
 '''
 POST-GARLI CIPRES SCRIPT
-~~~~~~~ beta v1.0 ~~~~~~
+~~~~~~~~~ v1.0 ~~~~~~~~~
 To be used when Garli has elected multiple best trees (from being run on parallel cores), 
 and multiple .best.tre files exists in the current directory. This script collects the 
 Garli scores from each of these best tree files, and ranks the trees by score from highest

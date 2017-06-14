@@ -255,7 +255,7 @@ def process_garli(file_name):
                 required values (bootstrapreps, searchreps, availablememory')
         err_code = 1
     else:
-        if bootreps == 0:
+        if bootreps == '0':
             nruns = searchreps
             searchreps = 1
         else:
